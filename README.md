@@ -7,7 +7,7 @@
 
 ## **👥 Integrantes do Grupo**  
 - [Marcus Felipe](https://github.com/m4rcusml/)
-- [Nome do integrante 2](#)
+- [Leandro Precaro](https://github.com/Leandro-Filho)
 - [Nome do integrante 3](#)
 - [Nome do integrante 4](#)
 - [Nome do integrante 5](#)
