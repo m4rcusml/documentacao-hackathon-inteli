@@ -51,11 +51,10 @@ O líder define critérios de avaliação alinhados aos valores da empresa. A IA
 - **Foco da empresa?**  
 Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo um ambiente de trabalho mais produtivo, colaborativo e alinhado às melhores práticas organizacionais.  
 
-
 ---
 
 ## **🤖 Instruções do GPT** 
-> _[Descreva aqui algumas instruções básicas de uso do agente.]_
+
 1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.  
 2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.  
 3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.  
@@ -63,8 +62,7 @@ Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo 
 
 ---
 
-## **💡 Temas da Conversa**  
-> _O agente de IA pode abordar diversos tópicos para apoiar o desenvolvimento dos colaboradores e da equipe._  
+## **💡 Temas da Conversa**   
 
 - 🛠️ **Desenvolvimento Pessoal e Profissional** – Melhoria de soft skills, produtividade, resiliência e crescimento contínuo.  
 - 🌐 **Desempenho e Feedback** – Análise de pontos fortes e fracos, interpretação e aplicação de feedback.  
