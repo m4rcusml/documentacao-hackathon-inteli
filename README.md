@@ -72,15 +72,15 @@ Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo 
 
 ---
 
+## **🚀 Planos Futuros**
+- Expansão com reconhecimento por voz e feedbacks automáticos em reuniões.
+
+---
+
 ## **📚 Bases de Conhecimento**  
 > _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
 ### **⚠️ Prompts**
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
-
----
-
-## **🚀 Planos Futuros**
-- Expansão com reconhecimento por voz e feedbacks automáticos em reuniões.
 
 ---
 
@@ -90,6 +90,6 @@ Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo 
 - 📕 _[Nome ou link da base de conhecimento 3]_  
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Link 1](#)  
+- 🔗 [As 9 maiores preocupações dos executivos](https://exame.com/carreira/lideres-modernos-problemas-antigos-veja-as-9-preocupacoes-que-estao-tirando-o-sono-dos-executivos/)  
 - 🔗 [Link 2](#)  
 - 🔗 [Link 3](#)  
