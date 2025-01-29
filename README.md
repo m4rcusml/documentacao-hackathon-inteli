@@ -78,16 +78,10 @@ Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo 
 ---
 
 ## **📚 Bases de Conhecimento**  
-> _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
 ### **⚠️ Prompts**
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
----
-
-### **📘 Principais Referências Utilizadas:**  
-- 📗 _[Nome ou link da base de conhecimento 1]_  
-- 📙 _[Nome ou link da base de conhecimento 2]_  
-- 📕 _[Nome ou link da base de conhecimento 3]_  
+---  
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [As 9 maiores preocupações dos executivos](https://exame.com/carreira/lideres-modernos-problemas-antigos-veja-as-9-preocupacoes-que-estao-tirando-o-sono-dos-executivos/)  
