@@ -42,13 +42,13 @@ A falta de feedback estruturado impacta negativamente o engajamento, o desenvolv
 
 ## **🚀 Solução**  
 
-- **O que é o seu produto/serviço?**  
+- **O que é?**  
 Um agente de IA que gera feedbacks personalizados e estratégicos para colaboradores e líderes, baseado em dados coletados via formulários e, futuramente, reconhecimento por voz em reuniões.  
 
 - **Como funciona?**  
 O líder define critérios de avaliação alinhados aos valores da empresa. A IA processa as respostas e gera feedbacks individuais e um panorama geral da equipe, indicando pontos fortes, fraquezas e sugestões de melhoria.  
 
-- **Foco da empresa?**  
+- **Qual o foco?**  
 Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo um ambiente de trabalho mais produtivo, colaborativo e alinhado às melhores práticas organizacionais.  
 
 ---
@@ -91,5 +91,3 @@ Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo 
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [As 9 maiores preocupações dos executivos](https://exame.com/carreira/lideres-modernos-problemas-antigos-veja-as-9-preocupacoes-que-estao-tirando-o-sono-dos-executivos/)  
-- 🔗 [Link 2](#)  
-- 🔗 [Link 3](#)  
