@@ -1,4 +1,4 @@
-# **🚀 Nome do Projeto**
+# **🚀 Papai Cris Sprint Enhancer**
 
 ### **🔗 Link do Agente GPT:**  
 > _[Insira o link do GPT criado aqui.]_
@@ -7,13 +7,12 @@
 
 ## **👥 Integrantes do Grupo**  
 - [Marcus Felipe](https://github.com/m4rcusml/)
-- [Leandro Precaro](https://github.com/Leandro-Filho)
-- [Nome do integrante 3](#)
-- [Nome do integrante 4](#)
-- [Nome do integrante 5](#)
-- [Nome do integrante 6](#)
-- [Nome do integrante 7](#)
-- [Nome do integrante 8](#)
+- [Leandro Filho](https://github.com/Leandro-Filho)
+- [Isabel Montenegro](https://github.com/IsabelMontenegro01)
+- [João Cardoso](https://github.com/joaocardosodias)
+- [Isabela Szolnoky](https://github.com/szcabral)
+- [Eduardo Khaled](#)
+- 
 
 ---
 
