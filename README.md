@@ -11,8 +11,8 @@
 - [Isabel Montenegro](https://github.com/IsabelMontenegro01)
 - [João Cardoso](https://github.com/joaocardosodias)
 - [Isabela Szolnoky](https://github.com/szcabral)
-- [Eduardo Khaled](#)
-- 
+- [Eduardo Khaled](https://github.com/KhaledCoins)
+- [Bruno Rocha](https://github.com/Brunorrochas)
 
 ---
 
