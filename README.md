@@ -53,12 +53,15 @@ Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo 
 
 ---
 
-## **🤖 Instruções do GPT** 
+## **🤖 Como Usar o Lidaris**
 
-1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.  
-2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.  
-3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.  
-4. 🎯 Adapte as interações conforme necessário, mantendo foco nos temas definidos abaixo.  
+O Lidaris analisa feedbacks e gera insights estratégicos para equipes, ajudando líderes e colaboradores no desenvolvimento profissional. Para obter respostas mais precisas:
+
+- ✅ Seja específico – Descreva seu desafio com detalhes. Exemplo: "Como ser mais persuasivo em reuniões de vendas?"
+- 🛠️ Dê contexto – Informe sua função, desafios e objetivos. Exemplo: "Sou líder de tecnologia e quero incentivar feedbacks na equipe."
+- 🔍 Peça sugestões práticas – Além da análise, solicite dicas aplicáveis. Exemplo: "Como lidar melhor com feedbacks negativos?"
+
+Quanto mais claro for seu pedido, mais útil será a resposta do Lidaris!
 
 ---
 
