@@ -1,4 +1,4 @@
-# **🚀 Papai Cris Sprint Enhancer**
+# **🚀 Lidaris**
 
 ### **🔗 Link do Agente GPT:**  
 > _[Insira o link do GPT criado aqui.]_
@@ -19,7 +19,7 @@
 
 ## **📄 Resumo do Projeto**  
 
-O projeto busca aprimorar o desempenho individual e coletivo das equipes por meio de um sistema de feedback funcional baseado em Inteligência Artificial. A partir de um formulário estruturado pelo líder, alinhado aos valores da empresa e aos objetivos de desenvolvimento, a IA analisa as respostas e gera feedbacks personalizados para cada colaborador, destacando pontos fortes, aspectos a melhorar e sugestões para o desenvolvimento de soft skills e adequação às normas corporativas.  
+O Lidaris busca aprimorar o desempenho individual e coletivo das equipes por meio de um sistema de feedback funcional baseado em Inteligência Artificial. A partir de um formulário estruturado pelo líder, alinhado aos valores da empresa e aos objetivos de desenvolvimento, a IA analisa as respostas e gera feedbacks personalizados para cada colaborador, destacando pontos fortes, aspectos a melhorar e sugestões para o desenvolvimento de soft skills e adequação às normas corporativas.  
 
 Além dos feedbacks individuais, o líder recebe uma visão consolidada do desempenho da equipe, permitindo decisões estratégicas mais assertivas. O projeto visa otimizar a comunicação, fortalecer a cultura organizacional e aumentar o engajamento dos colaboradores.  
 
