@@ -82,7 +82,7 @@ Quanto mais claro for seu pedido, mais útil será a resposta do Lidaris!
 
 ## **📚 Bases de Conhecimento**  
 ### **⚠️ Prompts**
-- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 📗 https://github.com/m4rcusml/documentacao-hackathon-inteli/blob/main/prompts.txt
 
 ---  
 
