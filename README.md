@@ -49,7 +49,7 @@ Um agente de IA que gera feedbacks personalizados e estratégicos para colaborad
 O líder define critérios de avaliação alinhados aos valores da empresa. A IA processa as respostas e gera feedbacks individuais e um panorama geral da equipe, indicando pontos fortes, fraquezas e sugestões de melhoria.  
 
 - **Qual o foco?**  
-Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo um ambiente de trabalho mais produtivo, colaborativo e alinhado às melhores práticas organizacionais.  
+Aprimorar a gestão de equipes, a capacidade de liderança e o trabalho em equipe por meio da inteligência artificial, promovendo um ambiente de trabalho mais produtivo, colaborativo e alinhado às melhores práticas organizacionais.  
 
 ---
 
@@ -77,6 +77,7 @@ Quanto mais claro for seu pedido, mais útil será a resposta do Lidaris!
 
 ## **🚀 Planos Futuros**
 - Expansão com reconhecimento por voz e feedbacks automáticos em reuniões.
+- Simular reuniões no Lidaris para auxiliar na evolução das soft-skills.
 
 ---
 
