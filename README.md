@@ -1,7 +1,7 @@
 # **🚀 Lidaris**
 
 ### **🔗 Link do Agente GPT:**  
-> (https://chatgpt.com/g/g-679a8ffa5b2081918de9215122e2ab48-lidaris-prototipo-2)
+> https://chatgpt.com/g/g-679a8ffa5b2081918de9215122e2ab48-lidaris-prototipo-2
 
 ---
 
