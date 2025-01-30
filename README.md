@@ -87,4 +87,5 @@ Quanto mais claro for seu pedido, mais útil será a resposta do Lidaris!
 ---  
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [As 9 maiores preocupações dos executivos](https://exame.com/carreira/lideres-modernos-problemas-antigos-veja-as-9-preocupacoes-que-estao-tirando-o-sono-dos-executivos/)  
+- 🔗 [9 problemas que tiram o sono dos líderes](https://exame.com/carreira/lideres-modernos-problemas-antigos-veja-as-9-preocupacoes-que-estao-tirando-o-sono-dos-executivos/)
+- 🔗 [O desafio das equipes multigeracionais](https://forbes.com.br/carreira/2023/11/8-em-cada-10-lideres-tem-dificuldade-de-comandar-equipes-multigeracionais/)
