@@ -5,9 +5,21 @@
 
 ---
 
+## **👥 Integrantes do Grupo**  
+- [Marcus Felipe](https://github.com/m4rcusml/)
+- [Leandro Filho](https://github.com/Leandro-Filho)
+- [Isabel Montenegro](https://github.com/IsabelMontenegro01)
+- [João Cardoso](https://github.com/joaocardosodias)
+- [Isabela Szolnoky](https://github.com/szcabral)
+- [Eduardo Khaled](https://github.com/KhaledCoins)
+- [Bruno Rocha](https://github.com/Brunorrochas)
+- [Cauã Pirilo](https://github.com/c4uazinnnn)
+
+---
+
 ## **📄 Resumo do Projeto**  
 
-O Lidaris é um sistema baseado em Inteligência Artificial que auxilia líderes na análise de desempenho da equipe por meio de formulários personalizados. A IA gera feedbacks individuais e relatórios detalhados, destacando pontos fortes, aspectos a melhorar e sugestões para o desenvolvimento profissional.
+O Lidaris é um sistema baseado em Inteligência Artificial que auxilia líderes na análise de desempenho da equipe por meio de formulários personalizados. A IA gera feedbacks individuais e relatórios detalhados, destacando pontos fortes, aspectos a melhorar e sugestões para o desenvolvimento profissional. 
 
 A ferramenta funciona através de um questionário estruturado para cada profissão, onde a IA faz perguntas específicas, fornece feedback imediato para cada resposta e, ao final, gera um relatório consolidado com insights estratégicos e gráficos detalhados. O objetivo é proporcionar uma avaliação eficiente e alinhada aos princípios e valores da empresa, promovendo a melhoria contínua dos profissionais.
 
@@ -70,4 +82,15 @@ O Lidaris analisa desempenho profissional e fornece feedbacks estratégicos atra
 - Simulação de entrevistas e dinâmicas para aprimoramento de soft skills.  
 
 ---
+
+## **📚 Bases de Conhecimento**  
+### **⚠️ Prompts**
+- 📗 https://github.com/m4rcusml/documentacao-hackathon-inteli/blob/main/prompts.txt
+
+---  
+
+### **📖 Documentações Complementares:**  
+- 🔗 [9 problemas que tiram o sono dos líderes](https://exame.com/carreira/lideres-modernos-problemas-antigos-veja-as-9-preocupacoes-que-estao-tirando-o-sono-dos-executivos/)
+- 🔗 [O desafio das equipes multigeracionais](https://forbes.com.br/carreira/2023/11/8-em-cada-10-lideres-tem-dificuldade-de-comandar-equipes-multigeracionais/)
+- 🔗 [Definição de portes de empresa](https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/SP/Pesquisas/MPE_conceito_empregados.pdf)
 
