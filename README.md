@@ -13,7 +13,7 @@
 - [Isabela Szolnoky](https://github.com/szcabral)
 - [Eduardo Khaled](https://github.com/KhaledCoins)
 - [Bruno Rocha](https://github.com/Brunorrochas)
-- [Cauâ Pirilo](https://github.com/c4uazinnnn)
+- [Cauã Pirilo](https://github.com/c4uazinnnn)
 
 ---
 
