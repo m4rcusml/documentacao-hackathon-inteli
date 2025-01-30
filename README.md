@@ -57,7 +57,7 @@ Aprimorar a gestão de equipes por meio da inteligência artificial, promovendo 
 
 O Lidaris analisa feedbacks e gera insights estratégicos para equipes, ajudando líderes e colaboradores no desenvolvimento profissional. Para obter respostas mais precisas:
 
-- ✅ Seja específico – Descreva seu desafio com detalhes. Exemplo: "Como ser mais persuasivo em reuniões de vendas?"
+- ✅ Seja específico – Responda às questões com detalhes para receber feedbacks mais específicos.
 - 🛠️ Dê contexto – Informe sua função, desafios e objetivos. Exemplo: "Sou líder de tecnologia e quero incentivar feedbacks na equipe."
 - 🔍 Peça sugestões práticas – Além da análise, solicite dicas aplicáveis. Exemplo: "Como lidar melhor com feedbacks negativos?"
 
